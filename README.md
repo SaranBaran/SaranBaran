@@ -6,7 +6,7 @@ Brown University · **B.S. Computer Science** + **B.A. Comparative Literature** 
 
 ```
 > Software development for humanitarian good & digital humanities
-> Visual computing, graphics & spatial data  
+> Visual computing, graphics & spatial data
 > Filmmaking, game dev, Kurdish culture & language preservation
 > Making weird & interesting things█
 ```
@@ -17,32 +17,26 @@ Brown University · **B.S. Computer Science** + **B.A. Comparative Literature** 
 
 | project | role | status |
 |--------|------|--------|
-| [Brown Visual Computing Lab](https://github.com/SaranBaran) | Research Asst — 3D mesh AI & segmentation w/ PartField | `RUNNING` |
-| [Impact Afghanistan 2.0](https://github.com/SaranBaran) | Laidlaw Scholar & UTRA — AI tools for archival research | `RUNNING` |
+| Brown Visual Computing Lab | Research Asst — 3D mesh AI & segmentation w/ PartField | `RUNNING` |
+| Impact Afghanistan 2.0 | Laidlaw Scholar & UTRA — AI tools for archival research | `RUNNING` |
 | [Rojkey](https://github.com/enstitudijital/Rojkey) | Lead SWE — app teaching Kurmanji Kurdish to kids | `RUNNING` |
 | [Dream Heist](https://github.com/SaranBaran/dreamheistASIL) | Lead Software Developer — mobile game | `WIP` |
 
 ---
 
-### `> dir /graphics` — Computer Graphics @ Brown (CSCI 1230)
+### `> dir /cs` — CS Work
 
 | file | description |
 |------|-------------|
 | `RayTracer` *(private — academic)* | C++ ray tracer — lighting, shadows & reflection |
-| [`GLRenderer.cpp`](https://github.com/BrownCSCI1230/proj5-SaranBaran) | Real-time OpenGL renderer with shading pipelines |
-| [`ZenGarden.exe`](https://github.com/bgitig/cs1230-final) | Generative Zen Garden — L-systems, bump mapping, cloth simulation |
+| `GLRenderer.cpp` *(private — academic)* | Real-time OpenGL renderer with shading pipelines |
+| [`ZenGarden.exe`](https://github.com/bgitig/cs1230-final) | Generative Zen Garden — L-systems, bump mapping, cloth sim |
 | [`LSystem_terrain`](https://github.com/BrownCSCI1230/project-6-final-project-gear-up-SaranBaran) | Procedural tree & rock generation |
+| `CachingIO` *(CS300 — academic)* | File caching & I/O system |
+| [`Pi-Catcher.exe`](https://github.com/SaranBaran/Pi-Catcher-New) | Mario-style Pi memorization game · [play ↗](https://saranbaran.itch.io/pi-catcher) |
+| [`mini-emulator`](https://github.com/SaranBaran/mini-emulator) | Terminal-based ROM emulator |
 
----
-
-### `> dir /solo` — Solo Builds
-
-- [`Pi-Catcher.exe`](https://github.com/SaranBaran/Pi-Catcher-New) — Mario-style game to memorize 100 digits of Pi, built solo for high school Calculus · [**play it ↗**](https://saranbaran.itch.io/pi-catcher)
-- [`mini-emulator`](https://github.com/SaranBaran/mini-emulator) — terminal-based ROM emulator
-
----
-
-### `> type jams.log` — Game Jams
+**Game Jams**
 
 | game | jam | role |
 |------|-----|------|
@@ -52,29 +46,27 @@ Brown University · **B.S. Computer Science** + **B.A. Comparative Literature** 
 | [Fantastic Wizard Fox](https://yahay.itch.io/fantastic-wizard-fox) | HomeMade Jam | Unity Dev · Pixel Artist |
 | [TakeAway](https://github.com/yahay505/TakeAwayJam) | TakeAway Jam | Unity Dev |
 
----
-
-### `> cat skills.cfg`
-
-`Java` `Python` `C` `C++` `R` `OpenGL` `Unity` `Blender` `Arduino` `Rhino`
-`Visual Computing` `ML Pipelines` `HPC/OSCAR` `OSINT` `Satellite Imagery`
-`DaVinci Resolve` `Adobe Suite` `Procreate`
-
-🌐 English · Turkish *(bilingual)* · Kurdish Kurmanjî *(proficient)*
+```
+Languages  : Java · Python · C · C++ · R · Arduino · Rhino
+Graphics   : OpenGL · Unity · Blender
+Research   : ML Pipelines · HPC/OSCAR · OSINT · Satellite Imagery
+Creative   : DaVinci Resolve · Adobe Suite · Procreate
+Spoken     : English · Turkish (bilingual) · Kurdish Kurmanjî (proficient)
+```
 
 ---
 
 ### `> cat life.txt | head -1`
 
-Zarok TV animator · Ivy Film Festival · Brown Motion Pictures · College Hill Independent · Cultural Association of Turkey @ Brown *(President)* · RC Game Design Club Co-Leader · Kurdish audiobooks w/ Swiss Consulate
+Zarok TV animator · Kurdish audiobooks w/ Swiss Consulate · Ivy Film Festival · Brown Motion Pictures · DoP for Word! Slam Poetry · College Hill Independent · Cultural Association of Turkey @ Brown *(President)* · RC Game Design Club Co-Leader
 
 ---
 
 ### `> ping sarya`
 
-[![itch.io](https://img.shields.io/badge/itch.io-saranbaran-red?style=flat-square&logo=itch.io)](https://saranbaran.itch.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarya--baran--kılıç-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sarya-baran-kilic/)
-[![Email](https://img.shields.io/badge/email-sarya__kilic@brown.edu-green?style=flat-square&logo=gmail)](mailto:sarya_kilic@brown.edu)
+[![itch.io](https://img.shields.io/badge/itch.io-saranbaran-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://saranbaran.itch.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarya--baran--kılıç-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarya-baran-kilic/)
+[![Email](https://img.shields.io/badge/email-sarya__kilic%40brown.edu-004C97?style=flat-square&logo=google&logoColor=white)](mailto:sarya_kilic@brown.edu)
 
 ```
 // process complete. thanks for reading. 🍵
