@@ -68,8 +68,7 @@ Zarok TV animator · Kurdish audiobooks w/ Swiss Consulate · Ivy Film Festival 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sarya--baran--kılıç-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarya-baran-kilic/)
 [![Email](https://img.shields.io/badge/email-sarya__kilic%40brown.edu-004C97?style=flat-square&logo=google&logoColor=white)](mailto:sarya_kilic@brown.edu)
 
-```
-[![Email](https://img.shields.io/badge/email-sarya__kilic%40brown.edu-004C97?style=flat-square&logo=google&logoColor=white)](mailto:sarya_kilic@brown.edu)
+[![Calendly](https://img.shields.io/badge/email-sarya__kilic%40brown.edu-004C97?style=flat-square&logo=google&logoColor=white)]([mailto:sarya_kilic@brown.edu](https://calendly.com/sarya_kilic-brown/new-meeting))
 
 ```
 // process complete. thanks for reading. 🍵
