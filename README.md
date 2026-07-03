@@ -19,7 +19,7 @@ Brown University · **B.S. Computer Science** + **B.A. Comparative Literature** 
 |--------|------|--------|
 | Brown Visual Computing Lab | Research Asst — 3D mesh AI & segmentation w/ PartField | `RUNNING` |
 | Impact Afghanistan 2.0 | Laidlaw Scholar & UTRA — AI tools for archival research | `RUNNING` |
-| [Tech as Prosthetics](https://github.com/brown-cntr/Tech-as-Prosthetics.git)| Fullstack developer for Tech as Prosthetic website workshop project | `RUNNING` |
+| [Tech as Prosthetics](https://github.com/brown-cntr/Tech-as-Prosthetics.git)| Fullstack Developer | `RUNNING` |
 | [Rojkey](https://github.com/enstitudijital/Rojkey) | Lead SWE — app teaching Kurmanji Kurdish to kids | `RUNNING` |
 | [Dream Heist](https://github.com/SaranBaran/dreamheistASIL) | Lead Software Developer — mobile game | `WIP` |
 
